@@ -1,0 +1,14 @@
+$width: 500px;
+$color: #44aaff;
+$color-tomato: #FF5511;
+
+
+body {
+	background-color: $color-tomato;
+}
+
+.contents-wrapper {
+	width: $width;
+	background-color: $color;
+	display: block;
+}
